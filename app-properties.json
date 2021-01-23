@@ -1,10 +1,10 @@
 {
   "ig_profile_active": true,
-  "latest_app_version": 2,
+  "latest_app_version": 1,
   "versions": [
     {
       "app_version": 1,
-      "strictly_out_of_date": true
+      "strictly_out_of_date": false
     }
   ]
 }
