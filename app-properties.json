@@ -1,6 +1,7 @@
 {
   "ig_profile_active": true,
   "latest_app_version": 1,
+  "play_store_availability": true,
   "versions": [
     {
       "app_version": 1,
