@@ -1,11 +1,15 @@
 {
   "ig_profile_active": true,
-  "latest_app_version": 1,
-  "play_store_availability": true,
+  "latest_app_version": 3,
+  "play_store_availability": false,
   "versions": [
     {
-      "app_version": 1,
+      "app_version": 3,
       "strictly_out_of_date": false
+    },
+    {
+      "app_version": 1,
+      "strictly_out_of_date": true
     }
   ]
 }
