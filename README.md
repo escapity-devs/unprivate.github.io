@@ -1,5 +1,4 @@
-# unprivate.github.io
-UnPrivate for Instagram - Share Private Posts.
+# UnPrivate for Instagram - Share Private Posts.
 
 ⭐ Share private Instagram posts to your friends even if they don't follow the account. ⭐
 
@@ -24,3 +23,5 @@ UnPrivate is a background service which automatically detects private posts, dow
 • You can now Share / Save / Repost from the screen.
 
 <b>Disclaimer</b>: This app is not sponsored, endorsed by or affiliated with Instagram, Inc.
+
+<b>Download from <a href="https://unprivate.app/" target="_blank" rel="noopener noreferrer">https://unprivate.app</a>
