@@ -1,9 +1,13 @@
 {
-  "ig_profile_active": false,
+  "ig_profile_active": true,
   "ig_profile_name": "unprivateapp",
   "latest_app_version": 1,
   "play_store_availability": true,
   "versions": [
+    {
+      "app_version": 2,
+      "strictly_out_of_date": false
+    },
     {
       "app_version": 1,
       "strictly_out_of_date": false
